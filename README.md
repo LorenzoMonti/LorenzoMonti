@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #### *Postdoc at National Institute for Astrophysics.*   
-I'm currently using Machine Learning and Deep Learning techniques to study the light variations of RR Lyrae stars and their astrophysical parameters (like metallicity, and distance). These stars act like cosmic lighthouses, helping us measure distances in the universe. By training algorithms to recognize patterns in their brightness over time, we can classify different types of stars and estimate their physical properties, supporting large astronomical projects like Gaia.
+I'm currently studying RR Lyrae stars — ancient cosmic beacons that help us measure distances across the universe. Using Machine Learning and Deep Learning, I analyze how their brightness changes over time and explore their physical properties, like distance and chemical composition. By training algorithms to spot patterns in their behavior, we can better classify these stars and support major astronomical missions like Gaia.
 
 #### 📫 How to reach me
 
